@@ -1,3 +1,6 @@
 # leonnnn11.github.io
-it is my personal blog system.  
-it is the test for my first try to do sth. i wanna to do.
+It is my personal blog system.  
+My name is leonnn11,you can also call me oyzd.  
+Starting from today,i will write blog on github to record the learning process of algorithm and my life thank you for reading!  
+I will place the websides of my every blog as follows.  
+[reading] leonnnn11.github.io/my first blog
