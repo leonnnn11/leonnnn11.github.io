@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 你的标题
+title: my-first-blog
 ---
 
 
